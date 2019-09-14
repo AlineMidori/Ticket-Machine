@@ -67,6 +67,8 @@ class Troco {
         public TrocoIterator(Troco troco) {
             this.troco = troco;
         }
+        
+        
 
         @Override
         public boolean hasNext() {
