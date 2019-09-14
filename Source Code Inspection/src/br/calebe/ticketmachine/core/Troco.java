@@ -7,7 +7,7 @@ import java.util.Iterator;
  * @author Calebe de Paula Bianchini
  */
 class Troco {
-    protected PapelMoeda[] papeisMoeda;
+    public PapelMoeda[] papeisMoeda;
 
     public Troco(int valor) {
         int result = 0;
