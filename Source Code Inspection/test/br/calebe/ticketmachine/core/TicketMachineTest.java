@@ -6,8 +6,6 @@
 package br.calebe.ticketmachine.core;
 
 import java.util.Iterator;
-import org.junit.After;
-import org.junit.Before;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
@@ -21,15 +19,6 @@ public class TicketMachineTest {
     }
     
     
-    
-    @Before
-    public void setUp() {
-    }
-    
-    @After
-    public void tearDown() {
-    }
-
     /**
      * Test of inserir method, of class TicketMachine.
      */
