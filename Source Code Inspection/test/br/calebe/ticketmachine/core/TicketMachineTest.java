@@ -21,6 +21,7 @@ public class TicketMachineTest {
     }
     
     
+    
     @Before
     public void setUp() {
     }
